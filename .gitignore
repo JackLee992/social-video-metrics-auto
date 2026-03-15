@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# Keep local runtime state out of the repository if someone runs the skill in-place.
+auth/
+raw/
+reports/
+logs/
+config.json

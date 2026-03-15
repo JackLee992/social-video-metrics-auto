@@ -1,0 +1,4 @@
+interface:
+  display_name: "Social Video Metrics"
+  short_description: "Automate 7-day creator analytics pulls"
+  default_prompt: "Use $social-video-metrics-auto to collect rolling 7-day video metrics from Xiaohongshu, Douyin, and WeChat Channels, then publish a daily report."
