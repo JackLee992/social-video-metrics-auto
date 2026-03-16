@@ -1,0 +1,7 @@
+interface:
+  display_name: "Social Video Metrics Auto"
+  short_description: "Build daily cross-platform video metrics automation"
+  default_prompt: "Use $social-video-metrics-auto to scaffold or extend a Playwright workflow that collects Xiaohongshu, Douyin, and WeChat Channels video metrics and outputs a daily report."
+
+policy:
+  allow_implicit_invocation: true
